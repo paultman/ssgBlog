@@ -2,8 +2,8 @@
 node_modules
 
 # build artefacts
-public
-css
+dist
+design-files
 
 # secrets and errors
 .env
