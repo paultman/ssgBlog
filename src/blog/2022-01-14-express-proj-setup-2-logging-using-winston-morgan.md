@@ -7,7 +7,7 @@ tags:
   - "logging"
   - "morgan"
   - "winston"
-image: "JSDoc-for-Automatic-Code-Documentation-3.png"
+image: "/assets/blog/JSDoc-for-Automatic-Code-Documentation-3.png"
 ---
 
 Zero to complete, a step-by-step guide to setting up an Express project from a vet

@@ -3,7 +3,7 @@ title: "Best wrapper for IndexedDB: localForage, IDB-Keyval, or IDB"
 date: "2021-09-07"
 categories: 
   - "tech"
-image: "aadfd-hero.jpg"
+image: "/assets/blog/aadfd-hero.jpg"
 ---
 
 Continuing from a previous [post](https://paultman.wordpress.com/from-localstorage-to-indexeddb/), moving from Local Storage to IndexedDB, I set about a journey to fully embrace IndexedDB. Not wanting to reinvent the wheel, by enabling promises/async in calls to indexedDB, I've decided to use a 3rd party wrapper.

@@ -7,7 +7,7 @@ tags:
   - "bundling"
   - "expressjs"
   - "rollup"
-image: "3.png"
+image: "/assets/blog/3.png"
 ---
 
 Zero to complete, a step-by-step guide to setting up an Express project from a vet

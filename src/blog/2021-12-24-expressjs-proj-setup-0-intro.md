@@ -12,7 +12,7 @@ tags:
   - "rollup"
   - "supertest"
   - "winston"
-image: "JSDoc-for-Automatic-Code-Documentation-6.png"
+image: "/assets/blog/JSDoc-for-Automatic-Code-Documentation-6.png"
 ---
 
 Zero to complete, a step-by-step guide to setting up an Express project from a vet

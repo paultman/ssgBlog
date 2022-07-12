@@ -9,7 +9,7 @@ tags:
   - "firefox"
   - "safari"
   - "save-battery"
-image: "59f21-image.png"
+image: "/assets/blog/59f21-image.png"
 ---
 
 While using the M1 MacBook Air for a few weeks, and recently using my 2015 15" mbp, I've had a few incidents of LFN, Loud Fan Noise. Something that never happened on the Air, since the M1 version didn't even include a fan. So, aside from downloading [Mac Fan Control](https://crystalidea.com/macs-fan-control) and looking at [Activity Monitor,](https://support.apple.com/guide/activity-monitor/welcome/mac) I've looked for other ways to "lessen the load."

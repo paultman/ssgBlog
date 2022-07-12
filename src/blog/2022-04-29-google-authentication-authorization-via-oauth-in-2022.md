@@ -6,7 +6,7 @@ categories:
 tags: 
   - "google"
   - "oauth2"
-image: "image.png"
+image: "/assets/blog/image.png"
 ---
 
 ## Overview

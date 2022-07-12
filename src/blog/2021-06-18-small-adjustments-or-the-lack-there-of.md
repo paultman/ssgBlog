@@ -4,7 +4,7 @@ date: "2021-06-18"
 categories: 
   - "lessons-learned"
   - "life"
-image: "a62a7-kyphosis.jpeg"
+image: "/assets/blog/a62a7-kyphosis.jpeg"
 ---
 
 Today I was at my first PT session for strain of my plantar fascia. There, I saw an older man who was hunchback. From the middle of his back to his shoulders was severely arched. His back was curved like a "?." As we walked, I wished I could have gone over to him and just help him straighten his back so he could walk normally, the easier way. However as I watched him walk, it was obviously that he did so with difficulty, and no question that he was forced into his current way of walking, rather than being a choice of his own.

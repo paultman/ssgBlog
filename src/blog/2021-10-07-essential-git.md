@@ -7,7 +7,7 @@ tags:
   - "3-tree"
   - "development"
   - "git"
-image: "91e0d-git-1.png"
+image: "/assets/blog/91e0d-git-1.png"
 ---
 
 learn it once and for all

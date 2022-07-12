@@ -3,7 +3,7 @@ title: "Fact Check: Caffeine... how it works and a few surprises"
 date: "2021-05-09"
 categories: 
   - "lessons-learned"
-image: "0a71b-espresso-ground-coffee-beans-thumb-1-732x549-1.jpg"
+image: "/assets/blog/0a71b-espresso-ground-coffee-beans-thumb-1-732x549-1.jpg"
 ---
 
 Yesterday, I was speaking with a friend about coffee and caffeine. I thought I had an idea of how it worked, though my friend, who always seems to have an opinion on everything, explained it differently than I imagined.

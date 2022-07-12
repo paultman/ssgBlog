@@ -7,7 +7,7 @@ tags:
   - "css"
   - "css-framework"
   - "tailwindcss"
-image: "97129-tailwindcss-1.png"
+image: "/assets/blog/97129-tailwindcss-1.png"
 ---
 
 I have now used Tailwind CSS v2.2 to update two websites. They were both fairly basic landing pages, the first was originally written by another developer, the second, was an update to one I personally had written. After that experience, I'd like to jot down all my thoughts and mostly likely review this post over time as I forget, and as Tailwindcss itself improves.

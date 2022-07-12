@@ -3,7 +3,7 @@ title: "Government Decisions"
 date: "2021-05-07"
 categories: 
   - "life"
-image: "d1263-duque.png"
+image: "/assets/blog/d1263-duque.png"
 ---
 
 Yesterday, on my way home I struck up a conversation with an Uber driver.  Being a foreigner here in Medellin Colombia, I was curious as to the opinion of a local regarding the protests that happened yesterday regarding a proposal by the president to increase taxes at a time when the economy isn’t doing well.

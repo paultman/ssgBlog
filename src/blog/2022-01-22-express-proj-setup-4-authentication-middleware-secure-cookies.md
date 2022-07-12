@@ -7,7 +7,7 @@ tags:
   - "cookie-session"
   - "middleware"
   - "user-authentication"
-image: "JSDoc-for-Automatic-Code-Documentation-2.png"
+image: "/assets/blog/JSDoc-for-Automatic-Code-Documentation-2.png"
 ---
 
 Zero to complete, a step-by-step guide to setting up an Express project from a vet

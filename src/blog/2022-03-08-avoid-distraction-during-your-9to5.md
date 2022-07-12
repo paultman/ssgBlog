@@ -9,7 +9,7 @@ tags:
   - "avoid-distraction"
   - "hosts"
   - "shell-script"
-image: "image.jpeg"
+image: "/assets/blog/image.jpeg"
 ---
 
 We've all been there, you've finished lunch, decided to check a few news websites before getting back to work, and before you know it, it's 5pm, your work day is over. Unfortunately I wish I could say it's a rare occurrence, but I can't.

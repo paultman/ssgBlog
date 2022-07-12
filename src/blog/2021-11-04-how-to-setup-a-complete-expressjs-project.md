@@ -10,7 +10,7 @@ tags:
   - "morgan"
   - "vanillajs"
   - "webapp"
-image: "b7848-express-middlewares-complete-guide.png.png"
+image: "/assets/blog/b7848-express-middlewares-complete-guide.png.png"
 ---
 
 In this guide, I'll show you how to setup a node web framework and use it to support a client webapp built with vanilla-javascript. It is not meant to teach you how to use Express itself, but after you've learned that, how best to set it up.

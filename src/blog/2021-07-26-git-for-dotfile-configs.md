@@ -8,7 +8,7 @@ tags:
   - "homebrew"
   - "mac-setup"
   - "new-mac"
-image: "1f705-vsc_dotfiles.png"
+image: "/assets/blog/1f705-vsc_dotfiles.png"
 ---
 
 I recently transitions from a 2015 15" Macbook pro to a shinny new M1 macbook air. In the process of setting it up, I noticed a ton of dotfile configs.  

@@ -3,7 +3,7 @@ title: "Dopamine awareness and layering"
 date: "2021-05-07"
 categories: 
   - "lessons-learned"
-image: "b4acb-chemical-molecular-formula-hormone-dopamine-600w.jpg"
+image: "/assets/blog/b4acb-chemical-molecular-formula-hormone-dopamine-600w.jpg"
 ---
 
   

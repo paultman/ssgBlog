@@ -5,7 +5,7 @@ categories:
   - "tech"
 tags: 
   - "jsdoc"
-image: "1.png"
+image: "/assets/blog/1.png"
 ---
 
 Zero to complete, a step-by-step guide to setting up an Express project from a vet

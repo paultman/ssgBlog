@@ -9,7 +9,7 @@ tags:
   - "macbook-pro"
   - "ssd"
   - "upgrade"
-image: "f66c2-we6movjsxwdkksls.medium.jpeg"
+image: "/assets/blog/f66c2-we6movjsxwdkksls.medium.jpeg"
 ---
 
 ## Abstract

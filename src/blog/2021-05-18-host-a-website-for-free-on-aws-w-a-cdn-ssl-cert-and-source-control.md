@@ -8,7 +8,7 @@ tags:
   - "hosting"
   - "s3"
   - "static-website"
-image: "233b3-awsgraphic.png"
+image: "/assets/blog/233b3-awsgraphic.png"
 ---
 
 A few days ago I decided to reorganize web hosting for a few of my personal websites. Years ago I paid for a VPS at Linode and a nodejs app on Heroku. Later, I moved everything to Amazon, provisioning all my website and webapps on a single EC2 instance. I set it up as Ubuntu instance, and built it from scratch, thanks to various VPS guides, special thanks to Digital Ocean for their great VPS docs. Eventually I configured that single EC2 instance to serve 4 webapps, and 7 static websites.

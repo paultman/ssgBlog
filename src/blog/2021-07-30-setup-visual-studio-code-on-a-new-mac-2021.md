@@ -9,7 +9,7 @@ tags:
   - "npm"
   - "prettier"
   - "visual-studio-code"
-image: "a58f5-images.png"
+image: "/assets/blog/a58f5-images.png"
 ---
 
 updates:

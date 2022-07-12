@@ -11,7 +11,7 @@ tags:
   - "itching"
   - "loratadine"
   - "pruritus"
-image: "8d944-itchy-and-dry-skin-2123x1416-1.jpeg"
+image: "/assets/blog/8d944-itchy-and-dry-skin-2123x1416-1.jpeg"
 ---
 
 **Last update July 7, 2022**: Trying levocetirizine , see below

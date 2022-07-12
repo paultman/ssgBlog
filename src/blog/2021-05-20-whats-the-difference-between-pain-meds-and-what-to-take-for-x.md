@@ -9,7 +9,7 @@ tags:
   - "excedrin"
   - "pain-medications"
   - "tylenol"
-image: "18cca-painmeds.jpg"
+image: "/assets/blog/18cca-painmeds.jpg"
 ---
 
 _Last update: Aug 14th, 2021, added Bonus and Bonus 2 info, regarding gel vs pill and expiration dates._

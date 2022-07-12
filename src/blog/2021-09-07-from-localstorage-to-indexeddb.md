@@ -7,7 +7,7 @@ tags:
   - "github"
   - "indexeddb"
   - "localstorage"
-image: "53b5f-screen-shot-2021-09-10-at-4.34.50-pm.png"
+image: "/assets/blog/53b5f-screen-shot-2021-09-10-at-4.34.50-pm.png"
 ---
 
 While rewriting an offline capable webapp, I decided to update the offline storage mechanism from the very easy to use LocalStorage, to [indexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API), a real client database.

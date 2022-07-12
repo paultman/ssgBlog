@@ -11,7 +11,7 @@ tags:
   - "macbook-air"
   - "macbook-pro"
   - "nvme"
-image: "45e1f-img_0955-scaled.jpg"
+image: "/assets/blog/45e1f-img_0955-scaled.jpg"
 ---
 
 Comparing Apples new Silicon vs a Battle-Tested Intel [Favorite](https://www.laptopmag.com/articles/macbook-pro-2015-is-best-macbook-in-2017?fbclid=IwAR2BD1IYgehJPW7S1fnEIBKtDMhsJYKEHkWcCPrTOe3iC67Q0RIH9tWANwc)

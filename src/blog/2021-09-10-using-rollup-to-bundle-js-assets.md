@@ -7,7 +7,7 @@ tags:
   - "bundler"
   - "rollupjs"
   - "tree-shaking"
-image: "344a2-twitter-card.jpg"
+image: "/assets/blog/344a2-twitter-card.jpg"
 ---
 
 At the end of this blog post you will:

@@ -6,7 +6,7 @@ categories:
 tags: 
   - "configuration"
   - "nodejs"
-image: "JSDoc-for-Automatic-Code-Documentation-5.png"
+image: "/assets/blog/JSDoc-for-Automatic-Code-Documentation-5.png"
 ---
 
 Zero to complete, a step-by-step guide to setting up an Express project from a vet

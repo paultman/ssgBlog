@@ -7,7 +7,7 @@ categories:
 tags: 
   - "h5bp"
   - "website"
-image: "88b42-html5boilerplate.png"
+image: "/assets/blog/88b42-html5boilerplate.png"
 ---
 
 _Target Reader: Someone who knows Git basics and wants to generate a bare-bones, current-standards compliant, website with a typical npm/package-based directory layout._

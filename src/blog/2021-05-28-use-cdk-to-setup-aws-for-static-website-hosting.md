@@ -8,7 +8,7 @@ tags:
   - "cdk"
   - "codecommit"
   - "s3"
-image: "3ceb5-cdk-1.png"
+image: "/assets/blog/3ceb5-cdk-1.png"
 ---
 
 This is a continuation from the last post where I used the console to provision and setup the resources needed to host a static website on AWS, complete with SSL certs, CDN resources, code versioning and updates via a simple git push.
